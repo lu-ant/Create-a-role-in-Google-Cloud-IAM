@@ -5,7 +5,7 @@
 1️⃣ **Lab: IAM Security Best Practices**  
    - 🛠 **Tools Used:** Google Cloud IAM, Security Policies  
    - 🔍 **Key Takeaways:** Implemented role-based access controls  
-   - 📸 **Screenshots:** _(Add a screenshot of your lab results)_  
+    
 
 2️⃣ **Lab: Detecting Threats in Cloud Logs**  
    - 🛠 **Tools Used:** Google Security Command Center  
